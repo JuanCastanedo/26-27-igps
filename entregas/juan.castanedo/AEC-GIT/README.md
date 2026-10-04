@@ -26,3 +26,11 @@ Posteriormente se realizó el commit obligatorio:
 `docs: nuevo archivo`
 
 ![Primer commit](capturas/Subida inicial archivo.png)
+
+## Paso 4 - Creación de una nueva rama
+
+Se creó y se seleccionó la rama `docs/modificaciones` mediante el comando:
+
+`git checkout -b docs/modificaciones`
+
+![Creación de la rama](capturas/Docsmodificaciones.png)
