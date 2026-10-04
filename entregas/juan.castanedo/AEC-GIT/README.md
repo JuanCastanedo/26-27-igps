@@ -9,7 +9,7 @@ En esta actividad se han practicado diferentes operaciones básicas de Git y Git
 Se realizó un fork del repositorio original proporcionado por el profesor y posteriormente se clonó el repositorio en el ordenador utilizando Git.
 
 
-![Clonación del repositorio](capturas/Clonación repo.png)
+![Clonación del repositorio](capturas/Clonaciónrepo.png)
 
 ## Paso 2 - Creación de la estructura de carpetas
 
@@ -25,7 +25,7 @@ Posteriormente se realizó el commit obligatorio:
 
 `docs: nuevo archivo`
 
-![Primer commit](capturas/Subida inicial archivo.png)
+![Primer commit](capturas/Subidainicialarchivo.png)
 
 ## Paso 4 - Creación de una nueva rama
 
