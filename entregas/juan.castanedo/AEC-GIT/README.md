@@ -9,7 +9,7 @@ En esta actividad se han practicado diferentes operaciones básicas de Git y Git
 Se realizó un fork del repositorio original proporcionado por el profesor y posteriormente se clonó el repositorio en el ordenador utilizando Git.
 
 
-![Clonación del repositorio](capturas/Clonaciónrepo.png)
+![Clonación del repositorio](capturas/Clonacionrepo.png)
 
 ## Paso 2 - Creación de la estructura de carpetas
 
